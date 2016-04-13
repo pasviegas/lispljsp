@@ -1,6 +1,6 @@
 {
   "name": "lispljsp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Transpiles lisp code to ljsp compilant array",
   "main": "dist/index.js",
   "scripts": {
