@@ -1,0 +1,24 @@
+{
+  "name": "lispljsp",
+  "version": "1.0.0",
+  "description": "Transpiles lisp code to ljsp compilant array",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublish": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pasviegas@github.com/pasviegas/lispljsp.git"
+  },
+  "author": "Pedro Viegas <pedroasv@gmail.com> (pasviegas.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pasviegas/lispljsp/issues"
+  },
+  "homepage": "https://github.com/pasviegas/lispljsp#readme",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-jison": "1.2.0",
+    "through2": "2.0.1"
+  }
+}
